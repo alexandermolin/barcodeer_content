@@ -5,4 +5,5 @@ dependencies:
   - r-tidyverse
   - r-seurat
   - r-readr
-  
+  - r-patchwork
+  - r-ggplot2

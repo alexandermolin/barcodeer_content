@@ -1,0 +1,9 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.0
+  - r-tidyverse
+  - r-seurat
+  - r-readr
+  - r-patchwork
+  - r-ggplot2

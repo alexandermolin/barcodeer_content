@@ -1,7 +1,4 @@
-#jupyter serverextension enable --py nbgitpuller --sys-prefix
-
-
-#wget -q -O GSE100866_CBMC_8K_13AB_10X-ADT_umi.csv.gz https://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100866/suppl/GSE100866_CBMC_8K_13AB_10X-ADT_umi.csv.gz
+wget -q -O GSE100866_CBMC_8K_13AB_10X-ADT_umi.csv.gz https://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100866/suppl/GSE100866_CBMC_8K_13AB_10X-ADT_umi.csv.gz
 #tar -xf GSE100866_CBMC_8K_13AB_10X-ADT_umi.csv.gz
 #rm -r GSE100866_CBMC_8K_13AB_10X-ADT_umi.csv.gz
-#wget -q -O GSE100866_CBMC_8K_13AB_10X-RNA_umi.csv.gz https://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100866/suppl/GSE100866_CBMC_8K_13AB_10X-RNA_umi.csv.gz
+wget -q -O GSE100866_CBMC_8K_13AB_10X-RNA_umi.csv.gz https://ftp.ncbi.nlm.nih.gov/geo/series/GSE100nnn/GSE100866/suppl/GSE100866_CBMC_8K_13AB_10X-RNA_umi.csv.gz

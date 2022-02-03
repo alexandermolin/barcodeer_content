@@ -4,6 +4,7 @@ dependencies:
   - r-base=4.0
   - r-tidyverse
   - r-seurat
+  - r-seuratobject
   - r-readr
   - r-patchwork
   - r-ggplot2

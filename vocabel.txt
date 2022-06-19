@@ -1,0 +1,30 @@
+curate  	sorgfältig auswählen
+spatial 	räumlich
+derive  	ableiten
+incorporate 	einbauen, berücksichtigen
+decoy  		Köder
+trajectory  	bewegungsbahn, entwicklungsverlauf
+subsequent	nachfolgend
+laverage	hebeln, in Schwung bringen, etw. wirksam einsetzen
+assessment	Abschätzung, Bewertung
+abundance	Menge, Überfluss, Häufigkeit
+imputation	Zuteilung, Zurechnung
+discard		verwerfen, ausrangieren
+uterine mucosa	Gebärmutterschleihaut
+perivaskulär	in Umgebung eines Gefäßes
+stromal cells	Stütz und Bindegewebe
+distinct	deutlich, klar, unterscheidbar
+immunomodulatory	auf das Immunsystem wirkend
+chemokine	Signalproteine
+innate		angeboren
+glandular cells	Zellen die schleimhaut bilden
+in situ 	in der natürlichen richtigen Lage
+spatial		räumlich
+clonal expansion	der rasche anstieg von B und T Zellen bei einer infektion
+villous		zottig
+putativ		vermeindlich, mutmaßlich
+site		Standort, Lage
+innate		angeboren, eigen, typisch
+viable		brauchbar, lebensfähig
+concordant	uebereinstimmend
+
